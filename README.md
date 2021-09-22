@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhurdi
-- 👀 I’m interested in working with C#, JavaScript, and Python.
+- 👀 I’m interested in learning and working with C#, JavaScript, and Python.
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate and share knowledge on how to get proficient with above programming languages quickly.  Your help will be greatly appreciated!
 - 📫 I can be reached at jhu@resdat.com
